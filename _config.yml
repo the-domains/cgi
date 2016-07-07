@@ -1,0 +1,14 @@
+layout_spectrum: 0.8238644683733582
+typography_spectrum: 0.26366304233670235
+color:
+  brandStrength: 0.9554544216953218
+  lightness: 0.7339022138621658
+  saturation: 0.5155172205995768
+  rhythmicContrast: 0.7197271117474884
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: CGI
